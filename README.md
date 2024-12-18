@@ -50,7 +50,7 @@
     </header>
     <section>
         <p>The Big Yellow Lego Heart is a symbol of creativity and love for Lego enthusiasts around the world. Built entirely out of Lego bricks, it showcases the endless possibilities of what can be achieved with imagination and skill.</p>
-        <div class="image-container">
+        <div class="big heart">
             <img src="big-yellow-lego-heart.jpg" alt="Big Yellow Lego Heart">
         </div>
         <h2>About the Creation</h2>
